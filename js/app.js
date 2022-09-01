@@ -31,3 +31,5 @@ resetBtn.addEventListener('click', (event) => {
 });
 
 
+// USE BOOTSTRAP IN CSS!!!!!!!!!
+// USE UNSPLASH PHOTO IN CSS!!!!!!!!!
